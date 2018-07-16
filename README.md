@@ -1,7 +1,7 @@
 # Ticket-System
 
-> First load the database <b>ticket_system.sql</b> and edit <b>application/config/database.php</b> with your MySQL credentials.<br/>
-> Second rename <b>example.htaccess</b> to <b>.htaccess</b>.
+First load the database <b>ticket_system.sql</b> and edit <b>application/config/database.php</b> with your MySQL credentials.<br/>
+Second rename <b>example.htaccess</b> to <b>.htaccess</b>.
 
 <b>Default users:</b><br/>
 ==============================<br/>
