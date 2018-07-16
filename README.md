@@ -1,3 +1,3 @@
 # Ticket-System
 
-First load the data base <b>ticket_system.sql</b>
+First load the database <b>ticket_system.sql</b> and edit <b>application/config/database.php</b>
