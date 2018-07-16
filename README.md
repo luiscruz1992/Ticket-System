@@ -13,5 +13,5 @@ First load the database <b>ticket_system.sql</b> and edit <b>application/config/
 <b>User:</b> richard@mail.com<br/>
 <b>Pass:</b> 123456
 
-If you like you can use this address to test the application:<br/>
+If you like you can use this link to test the application:<br/>
 http://www.ticketsystem.antsplash.com/
