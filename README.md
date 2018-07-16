@@ -1,6 +1,6 @@
 # Ticket-System
 
-First load the database <b>ticket_system.sql</b> and edit <b>application/config/database.php</b>
+First load the database <b>ticket_system.sql</b> and edit <b>application/config/database.php</b> with your MySQL credentials.
 
 <b>Default users:</b><br/>
 ==============================<br/>
