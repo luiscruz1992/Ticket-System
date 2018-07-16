@@ -2,7 +2,7 @@
 
 First load the database <b>ticket_system.sql</b> and edit <b>application/config/database.php</b>
 
-Default users:<br/>
+<b>Default users:</b><br/>
 ==============================<br/>
 <b>User:</b> admin@mail.com<br/>
 <b>Pass:</b> 123456<br/>
